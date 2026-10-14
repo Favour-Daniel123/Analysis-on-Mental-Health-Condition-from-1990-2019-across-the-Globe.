@@ -1,4 +1,4 @@
-<img width="1145" height="1374" alt="My Display profile" src="https://github.com/user-attachments/assets/f3d77ada-3bcc-4f08-9390-5fd4287b29fa" /># A Technical Report using the STAR (Situation, Task, Action and Result/Recommendation) methodology.
+# A Technical Report using the STAR (Situation, Task, Action and Result/Recommendation) methodology.
 > Thinking, Cleaning, Analysing, Visualising and Technical Reporting of Mental illness across the globe.
 
 # TODAY's PROJECT: Mental Health Condition from 1990-2019 across the Globe.
@@ -134,4 +134,4 @@ This global mental health condition project from 1990 to 2019 provided, with val
 # Author
 
 **AFOLABI FAVOUR DANIEL** — Data Analyst
-[LinkedIn]([https://linkedin.com/in/afolabi-favour-daniel-a08768298]) · [Email](mailto:afolabifavour247@gmail.com)
+[LinkedIn](https://linkedin.com/in/afolabi-favour-daniel-a08768298) · [Email](mailto:afolabifavour247@gmail.com)
